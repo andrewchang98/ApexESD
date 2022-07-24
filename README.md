@@ -1,2 +1,6 @@
-# apexied
-Open-source virtual tripwire with PTT capabilities compatible Baofeng radios.
+# ApexESD (Electronic Spotter Device)
+UNDER NO SITUATION IS AN ELECTRONIC SPOTTER DEVICE A REPLACEMENT FOR A HUMAN SPOTTER.
+
+[1] ABSTRACT: ApexESD is an Open-source electronic automobile/motorcycle/pedestrian detection tripwire with PTT capabilities compatible with Baofeng radios (UV-5R, BF-F8HP). ApexESD utilizes LiDAR single-point ranging modules to detect traffic on roads. ApexESD connects to radios via a stardard Kenwood double-jack PTT connector. When ApexESD detects an anomaly (significant change in range value) an audio signal is sent and broadcasted from the radio, allowing an operator to detect potential oncoming traffic in advance. ApexIED helps to secure blind corners, tight spots, and start/finish lines.
+
+[2] MOTIVATION: Fatalities and serious injuries are a tragic reality which is all too common within high-risk, open-road sports. ApexESD comes into play by monitoring a stretch of open road by electronically monitoring a single point along the road using what is essentially a 'virtual tripwire.' Proper location, placement, and angle of the sensor is crucial for proper function. ApexESD will transmit an audio signal using PTT radio communication which attaches to ApexESD using a standard Kenwood double-jack PTT connector.
