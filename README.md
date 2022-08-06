@@ -1,5 +1,5 @@
 # ApexESD (Electronic Spotter Device)
-UNDER NO SITUATION IS AN ELECTRONIC SPOTTER DEVICE A REPLACEMENT FOR A HUMAN SPOTTER.
+UNDER NO CIRCUMSTANCE IS AN ELECTRONIC SPOTTER DEVICE A REPLACEMENT FOR A HUMAN SPOTTER.
 
 MOTIVATION: Fatalities and serious injuries are a tragic reality which is all too common within high-risk sports. ApexESD comes into play by monitoring a stretch of open road by electronically sampling a single point along the road using what is essentially a 'invisible laser tripwire.' ApexESD aims to reduce fatalities, close calls, and accidents by providing the operator with 99.9% confidence the course is clear.
 
